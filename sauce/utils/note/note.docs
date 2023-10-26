@@ -1,0 +1,13 @@
+raycasting
+
+so for intersex theres two things to keep in mind
+1: nearest: which is the distance it will take ur plr
+	to reach the edge of a wall.
+2: steps: the distance it will take to reach the coming egde!
+
+so the point of these r to reach all the edges of the blocks in which
+the player is facing so find out if we came across a wall else increment
+and the best thing about the stepsis that u just need to calculate it once
+becuz the stepsis will be the same for every increment!!!
+
+https://file+.vscode-resource.vscode-cdn.net/Users/aikram/Desktop/sus/cubNewd/2403DDD/sauce/utils/note/images/img0.png?version%3D1696853630937
